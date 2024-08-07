@@ -1,0 +1,4 @@
+{
+    "TELEGRAM_TOKEN":"Your telegram chat bot key",
+    "OPENAI_KEY": "open ai key"
+}
